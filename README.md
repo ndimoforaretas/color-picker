@@ -1,5 +1,7 @@
 # Color Picker DOM Widget
 
+![Color Picker DOM Widget](random-color-generator3.gif)
+
 ## Description
 
 A simple color palette generator that generates a color palette based on the color you choose. The user can effortlessly generate random colors and copy their hexadecimal codes to the clipboard.
